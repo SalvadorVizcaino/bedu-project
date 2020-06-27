@@ -1,0 +1,48 @@
+Crear repositorio
+Git init
+Agregar archivos al index
+Git add <filename>
+Git add .
+Consolidar o confirmar
+Git commit -m “comment”
+Agregar remoto
+Git remote add origin <server>
+Enviar
+Git push -u origin <branchName>
+---------------------------------------------
+Agregar remoto
+Git remote add origin <server>
+Enviar
+Git push -u origin <branchName>
+---------------------------------------------
+Local
+Git clone /path/to/repository
+Remoto
+Git clone <server>
+---------------------------------------------
+Crear
+Git checkout -b <branchName>
+Cambiar
+Git checkout <branchName>
+Eliminar
+Git branch -d <branchName>
+Enviar
+Git push origin <branchName>
+---------------------------------------------
+Actualizar
+Git pull
+Fusionar
+Git merge <branchName>
+Conflictos
+Git add <filename>
+Comparar
+Git diff <source_brach> <target_branch>
+---------------------------------------------
+Estado
+Git status
+Log
+Git log
+Descartar
+Git checkout – <filename>
+Git fetch origin
+Git reset –hard origin/master
