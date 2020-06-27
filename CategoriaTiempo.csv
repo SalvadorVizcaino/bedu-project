@@ -1,0 +1,19 @@
+timeCategory_id,timeCategoryName,timeCategorySymbol,timeCategoryOrder
+910,Mtto Prev,delay,6
+917,Utility,standby,5
+939,Reserva,down,3
+1093,Operativo,ready,1
+2455,Delay,down,2
+2476,Demora,standby,4
+2481,No Progra,utility,7
+2809,Operativo,operativo,2
+2810,Cambio Turno,cambio_turno,5
+2811,Caido Otros,caido_otros,8
+2812,Llantas,llantas,9
+6347,Operacion No Productiva,ready_np,2
+6348,Demora,delay,3
+6349,Demora No Operacional,delay_no,4
+6350,Mantenimiento Preventivo,down,5
+6351,Mantenimiento ,down_c,6
+6352,Reserva,standby,7
+99994,Unknown TimeCategory,UKN,

@@ -1,0 +1,6 @@
+status_id,statusName,statusSymbol
+1193,Mantenimiento,down
+1327,Producción,ready
+1572,Demora,delay
+1623,Reserva,standby
+99994,Unknown Status,UKN
